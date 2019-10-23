@@ -1,0 +1,11 @@
+/*
+Write a program that asks user to enter current time in 24 hour format and asks how long you want to sleep. 
+Program then calculates your wake up time and prints it. 
+The program must check that values are entered in correct format and must print an error message if invalid input is entered. 
+Program must also check that the entered numbers are in valid range (0 - 23 / 0 - 59).
+
+Example:
+Enter current time (hh:mm): 21:56
+How long do you want to sleep (h:mm): 8:30
+If you go to bed now you must wake up at 6:26.
+*/
