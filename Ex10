@@ -1,0 +1,25 @@
+/*
+Write a program that reads numbers from a text file and print the average of the number read. 
+The first row of the file contains count of numbers to read from the file (excluding the first row). 
+For example, if the first row reads 5 then you must read five numbers after the first row and calculate their average.
+
+For example if the file contains:
+6
+12
+13.5
+15
+16.98
+2
+4
+Your program must print:
+Average of 6 numbers is: 10.58
+
+Your program must always check the result of read operation and print an error message if read fails. 
+For example if the count indicates that four numbers should follow but reading fails before all numbers are read 
+then the program must print an error message that tells that all reading failed and tell how many numbers should have been read 
+and how many were actually read. The program must still print the average value of numbers that were read.
+
+For example:
+Error! Tried to read 6 numbers, 3 numbers were read.
+Average of 3 numbers is: 3.47
+*/
