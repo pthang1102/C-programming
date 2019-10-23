@@ -1,0 +1,5 @@
+/*
+Write a program that reads three numbers from a text file. 
+Then the program sorts the numbers in ascending order and writes the numbers back to the file. The original file is overwritten.
+Test your program with different numbers.
+*/
