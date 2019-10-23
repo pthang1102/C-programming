@@ -1,0 +1,8 @@
+/*
+Write a program which multiplies a 3 element vector (3 by 1 matrix) with 3 by 3 matrix.
+Program asks user to enter initial values for vector and matrix.
+Write a function to do matrix multiplication. Function takes three parameters: Result vector, source vector, source matrix. 
+Function returns no value but modifies result vector. Function may not modify source values.
+Program must print the initial values before multiplication and result after multiplication.
+The matrix multiplication function must do only the multiplication and may not print anything.
+*/
