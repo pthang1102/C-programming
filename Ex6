@@ -1,0 +1,13 @@
+/*
+Write a function that performs Caesar cipher on the given string.
+See https://en.wikipedia.org/wiki/Caesar_cipher
+The function takes two parameters: the string to be encrypted and an integer indicating the amount of shift. 
+Assume that only letters A-Z and whitespace characters are used. White space characters must not be affected by the encryption.
+Write a program that uses the function above to create encrypt and decrypt a given text. 
+The program must ask user to enter the amount of shift and the text to encrypt. 
+The program converts the string to uppercase before using the encryption function. 
+When user has entered the values the program prints the original text, the encrypted text and the decrypted text. 
+If the program works correctly the original text and decrypted text are identical.
+Note: You can encrypt and decrypt with the same function by giving a different shift value as a parameter. 
+For example if you encrypted text with shift 7 you decrypt by using shift -7 or (26 - 7) = 19.
+*/
